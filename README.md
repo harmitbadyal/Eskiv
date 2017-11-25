@@ -1,2 +1,2 @@
 # Eskiv
-Gmae
+A replication of the classic game Eskiv
